@@ -1,0 +1,13 @@
+---
+title: "amr-data-dictionary"
+---
+
+## About
+
+This web page will provide metadata information about the data files used for the course Introduction to R, databases and reproducibility for AMR epidemiologists.
+
+To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+
+```{r}
+1 + 1
+```
