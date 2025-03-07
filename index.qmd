@@ -12,6 +12,8 @@ Data files:
 
 -   gapminder_wide.csv
 
+### Epidemiology files:
+
 -   hgt_wgt.csv
 
 -   icd10_data.csv
@@ -22,11 +24,4 @@ Data files:
 
 ### gapminder_data.csv
 
-This data set consists of 6 variables and 1704 data points.
-The variables are:
-- country
-- year
-- pop
-- continent
--lifeExp
--gdpPerCap
+This data set consists of 6 variables and 1704 data points. The variables are: - country - year - pop - continent -lifeExp -gdpPerCap
