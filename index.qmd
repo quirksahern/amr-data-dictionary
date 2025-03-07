@@ -1,10 +1,15 @@
 ---
 title: "amr-data-dictionary"
+editor: 
+  markdown: 
+    wrap: 72
 ---
 
 ## About
 
-This web page will provide metadata information about the data files used for the course Introduction to R, databases and reproducibility for AMR epidemiologists.
+This web page will provide metadata information about the data files
+used for the course Introduction to R, databases and reproducibility for
+AMR epidemiologists.
 
 Data files:
 
@@ -23,10 +28,8 @@ Data files:
 ### gapminder_data.csv
 
 This data set consists of 6 variables and 1704 data points.
-The variables are:
-- country
-- year
-- pop
-- continent
--lifeExp
+
+The variables are: - country - year - pop - continent -lifeExp
 -gdpPerCap
+
+Data types are: text, date/time, number, text, number, number
