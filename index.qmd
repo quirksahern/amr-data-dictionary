@@ -8,7 +8,7 @@ This web page will provide metadata information about the data files used for th
 
 Data files:
 
--   gapmider_data.csv
+-   gapminder_data.csv
 
 -   gapminder_wide.csv
 
@@ -20,8 +20,13 @@ Data files:
 
 -   additional data set
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+### gapminder_data.csv
 
-```{r}
-1 + 1
-```
+This data set consists of 6 variables and 1704 data points.
+The variables are:
+- country
+- year
+- pop
+- continent
+-lifeExp
+-gdpPerCap
