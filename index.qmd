@@ -5,13 +5,15 @@ editor:
     wrap: 72
 ---
 
-## About
+## Introduction
 
 This web page will provide metadata information about the data files
 used for the course Introduction to R, databases and reproducibility for
 AMR epidemiologists.
 
 ### Data files:
+
+#### Gapminder files:
 
 -   gapminder_data.csv
 
@@ -27,18 +29,18 @@ AMR epidemiologists.
 
 -   additional data set
 
+## Gapminder files overview
+
 ### gapminder_data.csv
 
 This data set consists of 6 variables and 1704 data points.
 
-The variables are: 
-- country 
-- year 
-- pop 
-- continent 
-- lifeExp
-- gdpPerCap
-
-Data types are: text, date/time, number, text, number, number
-
+| Variable name | Data type |
+|---------------|-----------|
+| country       | text      |
+| year          | date/time |
+| pop           | number    |
+| continent     | text      |
+| lifeExp       | number    |
+| gdpPerCap     | number    |
 
