@@ -7,7 +7,9 @@ editor:
 
 ## Introduction
 
-Making a different chnage to this line locally
+
+Fixed merge issue
+
 
 This web page will provide metadata information about the data files
 used for the course Introduction to R, databases and reproducibility for
